@@ -1,4 +1,4 @@
-# Hi there, I'm [Saundarya Srivastav] 👋
+# Hi there, I'm Saundarya Srivastav 👋
 
 Welcome to my GitHub profile! I'm a passionate Data Analyst and aspiring Data Scientist with a strong foundation in data analysis, statistical modeling, and machine learning. I enjoy transforming complex data into actionable insights and am continually exploring new technologies to enhance my analytical capabilities.
 
